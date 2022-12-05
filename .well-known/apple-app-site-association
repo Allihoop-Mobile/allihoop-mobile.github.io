@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "1639312103.com.apple.wwdc",
+        "paths": [ "/events/*", "/posts/*", "/dynamics/*", "/dynamic/*"]
+      },
+      {
+        "appID": "6443786964.com.apple.wwdc",
+        "paths": [ "/events/*", "/posts/*", "/dynamics/*", "/dynamic/*"]
+      }
+    ]
+  }
+}

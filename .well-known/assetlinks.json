@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.allihoop.app",
+      "sha256_cert_fingerprints":
+      ["5C:73:5C:BD:51:EE:FC:3D:0A:D8:92:2E:7B:5E:7E:F9:16:BC:F3:FA:FA:5E:05:81:4B:D8:CD:E8:82:CA:9E:DB"]
+    }
+  }
+]
